@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[My First Learning Journal in Computer Networking]]></title>
+    <url>%2F2019%2F08%2F26%2FBlog-1-My-First-Learning-Journal-in-Computer-Networking%2FMy%20First%20Learning%20Journal%20in%20Computer%20Networking%2F</url>
+    <content type="text"><![CDATA[Hi, this is Harry. I built my personal tech blog last month but ironically I am writing my first blog now. /facepalmBut never mind, later better than never. /facepalmAgain It is good for a potential programmer to have a personal blog to jot down something interesting/important during his/her learning journey in computer science. I am reading a known book in CS field called “Computer Science：An Overview” by Glenn Brookshear. While the book has updated to the 13th edition, I guess it would not be a bad option plus it ranks highly on Douban (ignore it if you are not familiar with this). After reading Chapter 4: Networking and the Internet, I found great interests on computer networking (probably it is because there are a few things that I can’t connect dots so far and I would like to understand them more). The following blogs will be based on my own comprehension after reading another book that is all about networking. It is called “Basics of Networking” in English and it is the textbook for employee traning in Huawei. Personally, I think this is a great book for me to get started with the aid of the book with a bad selection of book cover \lol. Without further ado, let’s dive into the world of computer networking （I have already talked a lot) \lol.]]></content>
+      <tags>
+        <tag>Computer Networking</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F08%2F21%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
